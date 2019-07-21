@@ -13,7 +13,7 @@ public class HomeController {
     public String Deneme(Model model){
         String name = "Zihni";
         model.addAttribute("name", name);
-        return "welcom";
+        return "about";
     }
 
 }
