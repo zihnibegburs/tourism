@@ -11,9 +11,9 @@ public class HomeController {
 
     @RequestMapping(value = "/", method = {RequestMethod.GET, RequestMethod.POST})
     public String Deneme(Model model){
-        String name = "Zihni";
-        model.addAttribute("name", name);
-        return "home";
+
+        model.addAttribute("page", "home");
+        return "main/main";
     }
 
 }

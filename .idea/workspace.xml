@@ -2,636 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bbd09c8-d57a-4b89-adc5-64ea6cf0eb9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/ekko-lightbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/ekko-lightbox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/owl.carousel.theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/owl.carousel.theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/tether.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/css/tether.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/fonts/font-awesome/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/fonts/font-awesome/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/fonts/font-awesome/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/fonts/font-awesome/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/fonts/font-awesome/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/fonts/font-awesome/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/headers/bokeh-blurred-blurry-lights.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/headers/city-landmark-lights-night.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/headers/dawn-landscape-mountains-nature.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/headers/high-rise-building-during-night-time.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/headers/keyboard-green.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/headers/landscape-mountains-nature-sky.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/headers/landscape-sky-clouds.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/headers/skyline-buildings-new-york-skyscrapers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/headers/woman-hand-smartphone-desk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/about.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/accept_database.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/add_column.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/add_database.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/add_image.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/add_row.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/address_book.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/advance.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/advertising.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/alarm_clock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/alphabetical_sorting_az.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/alphabetical_sorting_za.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/answers.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/approval.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/approve.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/area_chart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/assistant.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/audio_file.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/automatic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/automotive.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/bad_decision.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/bar_chart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/bearish.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/binoculars.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/biohazard.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/biomass.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/biotech.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/bookmark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/briefcase.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/broken_link.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/bullish.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/business.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/business_contact.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/businessman.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/businesswoman.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/butting_in.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/cable_release.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/calculator.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/calendar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/call_transfer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/callback.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/camcorder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/camcorder_pro.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/camera.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/camera_addon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/camera_identification.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/cancel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/candle_sticks.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/capacitor.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/cell_phone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/charge_battery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/checkmark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/circuit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/clapperboard.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/clear_filters.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/clock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/close_up_mode.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/cloth.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/collaboration.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/collapse.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/collect.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/combo_chart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/comments.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/compact_camera.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/conference_call.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/contacts.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/copyleft.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/copyright.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/crystal_oscillator.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/currency_exchange.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/cursor.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/customer_support.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/dam.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/data_backup.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/data_configuration.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/data_encryption.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/data_protection.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/data_recovery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/data_sheet.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/database.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/debt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/decision.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/delete_column.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/delete_database.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/delete_row.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/department.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/deployment.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/diploma_1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/diploma_2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/disapprove.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/disclaimer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/dislike.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/display.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/do_not_inhale.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/do_not_insert.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/do_not_mix.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/document.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/donate.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/doughnut_chart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/down_left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/down_right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/download.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/edit_image.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/electrical_sensor.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/electrical_threshold.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/electricity.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/electro_devices.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/electronics.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/empty_battery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/empty_filter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/empty_trash.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/end_call.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/engineering.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/entering_heaven_alive.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/expand.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/expired.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/export.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/external.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/factory.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/factory_breakdown.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/faq.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/feed_in.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/feedback.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/file.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/filing_cabinet.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/filled_filter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/film.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/film_reel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/fine_print.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/flash_auto.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/flash_off.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/flash_on.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/flow_chart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/folder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/frame.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/full_battery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/full_trash.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/gallery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/genealogy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/generic_sorting_asc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/generic_sorting_desc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/globe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/good_decision.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/graduation_cap.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/grid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/headset.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/heat_map.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/high_battery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/high_priority.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/home.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/icons8_cup.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/idea.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/image_file.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/import.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/in_transit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/info.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/inspection.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/integrated_webcam.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/internal.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/invite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/ipad.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/iphone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/key.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/kindle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/landscape.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/leave.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/left_down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/left_down2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/left_up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/left_up2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/library.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/light_at_the_end_of_tunnel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/like.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/like_placeholder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/line_chart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/link.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/list.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/lock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/lock_landscape.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/lock_portrait.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/low_battery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/low_priority.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/make_decision.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/manager.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/medium_priority.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/menu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/middle_battery.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/mind_map.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/minus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/missed_call.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/mms.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/money_transfer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/multiple_cameras.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/multiple_devices.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/multiple_inputs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/multiple_smartphones.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/music.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/negative_dynamic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/neutral_decision.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/neutral_trading.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/news.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/night_landscape.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/night_portrait.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/no_idea.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/no_video.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/nook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/numerical_sorting_12.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/numerical_sorting_21.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/ok.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/old_time_camera.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/online_support.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/opened_folder.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/org_unit.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/organization.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/overtime.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/package.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/paid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/panorama.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/parallel_tasks.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/phone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/phone_android.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/photo_reel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/picture.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/pie_chart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/planner.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/plus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/podium_with_audience.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/podium_with_speaker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/podium_without_speaker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/portrait_mode.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/positive_dynamic.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/previous.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/print.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/privacy.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/process.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/puzzle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/questions.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/radar_plot.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/rating.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/ratings.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/reading.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/reading_ebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/redo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/refresh.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/registered_trademark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/remove_image.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/reuse.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/right_down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/right_down2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/right_up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/right_up2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/rotate_camera.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/rotate_to_landscape.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/rotate_to_portrait.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/ruler.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/rules.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/safe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/sales_performance.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/scatter_plot.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/self_service_kiosk.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/selfie.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/serial_tasks.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/service_mark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/services.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/settings.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/share.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/shipped.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/shop.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/signature.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/sim_card.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/sim_card_chip.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/slr_back_side.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/smartphone_tablet.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/sms.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/sound_recording_copyright.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/speaker.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/sports_mode.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/stack_of_photos.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/start.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/statistics.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/support.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/survey.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/switch_camera.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/synchronize.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/tablet_android.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/template.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/timeline.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/todo_list.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/touchscreen_smartphone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/trademark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/tree_structure.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/two_smartphones.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/undo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/unlock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/up_left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/up_right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/upload.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/video_call.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/video_file.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/video_projector.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/view_details.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/vip.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/voice_presentation.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/voicemail.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/webcam.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/icons/workflow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/S-dark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/S-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/S3M-app.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/S3M-dark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/S3M-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/S3M.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/adidas.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/adobe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/amazon-com.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/coca-cola.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/disney.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/linkedin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/microsoft.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/nike.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/nowsquare-dark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/nowsquare-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/nowsquare.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/ns-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/samsung.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/slack.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/uber.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/vine.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/logos/youtube.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/businesswoman-interview-meeting.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/cars-new-york-city-cab-taxi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/city-road-street-buildings.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/city-sunny-people-street.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/food-salad-restaurant-person.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/food-summer-party-dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/food-toast-restaurant-dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/laptop-technology-ipad-tablet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/man-holds-digital-tablet-in-his-hands.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/man-using-stylus-pen-for-touching-the-digital-tablet-screen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/pasta-penne-with-tomato-and-rucola.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/people-meeting-workspace-team.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/people-office-team-collaboration.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/pizza-italian-restaurant-food.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/smartphone-windows-phone-nokia-device.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/vegetables-italian-pizza-restaurant.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/photos/white-tablet-and-cup-of-coffee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/Apple-Thunderbolt-Display.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/app-stack-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/iMac-Cinema-Monitor-Style-Mock-up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/iPad-portrait.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/iPhone-6-4,7-inch-CutOff.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/iPhone-6-4,7-inch-Mockup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/iPhone-6S---isometric-view-right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/iPhone-6S---isometric-view.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/iWatch-White-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/iWatch-White.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/landing-pages-stack-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/pulse-box.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/software01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/visual-landing-screen-left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/visual-landing-screen-right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/visual-mobile-screen-left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/images/visuals/visual-mobile-screen-right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/ekko-lightbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/ekko-lightbox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/fss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/fss.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/particles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/particles.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/particles/particles-bubble.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/particles/particles-connect.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/particles/particles-diamonds.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/particles/particles-hexagon.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/particles/particles-nasa.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/particles/particles-snow.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/scripts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/tether.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/tether.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/typed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/theme/js/typed.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main/main.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/tourism/Controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tourism/Controller/HomeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/elements.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/fonts/beyond_the_mountains.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/fonts/beyond_the_mountains.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/about_background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/add.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/backpack.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/bicycle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/blog_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/blog_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/blog_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/blog_background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/bus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/compass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/contact.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/contact_background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/cruise.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/cta.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/departure.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/diving.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/dropdown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/elements_background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/footer_blog_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/footer_blog_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/footer_blog_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/gallery_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/gallery_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/gallery_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/gallery_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/gallery_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/gallery_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/home_slider.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/icon_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/icon_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/icon_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/intro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/intro_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/intro_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/intro_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/island.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/island_t.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/kayak.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/latest_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/latest_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/latest_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/latest_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_gallery_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_hotel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_thumb_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_thumb_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_thumb_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_thumb_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_thumb_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_thumb_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_thumb_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_thumb_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/listing_thumb_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/man.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/message.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/milestone_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/milestone_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/milestone_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/milestone_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/nav_next.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/nav_prev.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/nav_rect.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/offer_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/offer_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/offer_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/offer_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/offer_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/offer_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/offer_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/offer_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/phone-call.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/placeholder.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/planet-earth.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/post.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/review_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/review_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/room_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/room_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/sailboat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/search.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/single_background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/stats_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/stats_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/stats_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/stats_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/suitcase.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/test_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/test_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/test_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/trend_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/trend_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/trend_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/trend_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/trend_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/trend_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/trend_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/images/trend_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/js/about_custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/js/blog_custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/js/contact_custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/js/elements_custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/js/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/js/offers_custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/js/single_listing_custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/offers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/Isotope/isotope.pkgd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/OwlCarousel2-2.2.1/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/OwlCarousel2-2.2.1/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/OwlCarousel2-2.2.1/owl.carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/OwlCarousel2-2.2.1/owl.carousel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/OwlCarousel2-2.2.1/owl.theme.default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/OwlCarousel2-2.2.1/owl.video.play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/colorbox/colorbox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/colorbox/images/border.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/colorbox/images/controls.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/colorbox/images/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/colorbox/images/loading_background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/colorbox/images/overlay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/colorbox/jquery.colorbox-min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/easing/easing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/greensock/ScrollToPlugin.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/greensock/TimelineMax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/greensock/TweenMax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/greensock/animation.gsap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/jquery-circle-progress-1.2.2/circle-progress.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/parallax-js-master/parallax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/progressbar/progressbar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/plugins/scrollmagic/ScrollMagic.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/single_listing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/about_responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/about_styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/blog_responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/blog_styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/bootstrap4/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/bootstrap4/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/bootstrap4/popper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/contact_responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/contact_styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/elements_responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/elements_styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/main_styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/offers_responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/offers_styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/single_listing_responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/travelix/styles/single_listing_styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/tourism/Controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tourism/Controller/HomeController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -652,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="187">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main/main.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -667,19 +50,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/theme/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="25" column="4" lean-forward="true" selection-end-line="131" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/about.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="21" selection-end-line="520" selection-end-column="7" />
+            <state relative-caret-position="-1683">
+              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -687,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/tourism/Controller/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="102">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -765,9 +139,10 @@
         <option value="$PROJECT_DIR$/src/main/resources/static/travelix/index.html" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/tourism/Config/WebConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/tourism/Controller/HomeController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/theme/pages/home.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/tourism/Controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main/main.jsp" />
       </list>
     </option>
   </component>
@@ -778,7 +153,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -901,7 +276,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563891088815" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563892813909" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../gs-spring-boot-master/initial" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -966,18 +341,18 @@
       <updated>1563556451466</updated>
       <workItem from="1563556455121" duration="693000" />
       <workItem from="1563600719745" duration="8388000" />
-      <workItem from="1563630014870" duration="13268000" />
+      <workItem from="1563630014870" duration="15046000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22349000" />
+    <option name="totallyTimeSpent" value="24127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49839228" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49839228" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" sideWeight="0.5016077" side_tool="true" weight="0.2643857" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -988,7 +363,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39934534" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1099,23 +474,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/tourism/Controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/theme/pages/home.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/theme/css/addons/flag.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/theme/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/theme/index.html">
@@ -1125,17 +487,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/theme/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/about.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="21" selection-end-line="520" selection-end-column="7" />
+        <state relative-caret-position="-1683">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tourism/Controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/home.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state relative-caret-position="187">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/main/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
         </state>
       </provider>
     </entry>
