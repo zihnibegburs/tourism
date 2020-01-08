@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html xmlns:th="http://www.thymeleaf.org">  <head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -14,7 +14,11 @@
 
     <!-- Custom styles for this template -->
     <link href="../../resources/theme/css/style.min.css" rel="stylesheet">
-
+<script type="text/javascript" language="javascript">
+            var csrfParameter = $("meta[name='_csrf_parameter']").attr("content");
+            var csrfHeader = $("meta[name='_csrf_header']").attr("content");
+            var csrfToken = $("meta[name='_csrf']").attr("content");
+        </script>
     <!-- Plugins -->
     <link href="../../resources/theme/css/ekko-lightbox.min.css" rel="stylesheet">
     <link href="../../resources/theme/css/tether.min.css" rel="stylesheet">
